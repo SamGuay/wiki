@@ -1,0 +1,8 @@
+<h2 class="book-brand" style="width:100%">
+  <a href="{{ .Site.BaseURL | relLangURL }}">
+    {{- with .Site.Params.BookLogo -}}
+    <img style="width: 100%; height: auto" src="{{ . | relURL }}" alt="Logo" />
+    {{- end -}}
+    <span>{{ .Site.Title }}</span>
+  </a>
+</h2>
