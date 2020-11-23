@@ -1,79 +1,42 @@
 ---
-title: Введение
-type: docs
+title: How to participate and contribute
 ---
 
-# Стартовая страница на русском языке
+# Guide de participation et de contribution d'OSUM
+
+Ce guide se veut la référence à propos de nos façons de fonctionner. Tu aimerais t'investir davantage et contribuer au contenu? Consulte notre [ROADMAP](#) et informe-nous que tu aimerais collaborer. 
 
 {{< columns >}}
-## Astris ipse furtiva
+## How to get involved?
 
-Est in vagis et Pittheus tu arge accipiter regia iram vocatur nurus. Omnes ut
-olivae sensit **arma sorori** deducit, inesset **crudus**, ego vetuere aliis,
-modo arsit? Utinam rapta fiducia valuere litora _adicit cursu_, ad facies
+Text holder
 
 <--->
 
-## Suis quot vota
+## How to contribute?
 
-Ea _furtique_ risere fratres edidit terrae magis. Colla tam mihi tenebat:
-miseram excita suadent es pecudes iam. Concilio _quam_ velatus posset ait quod
-nunc! Fragosis suae dextra geruntur functus vulgata.
+Notre mode de fonctionnement peut varier selon les projets, mais en général, nous utilisons Github. Si tu n'es pas familière ou familier avec [GitHub](https://github.com/osumontreal), cette interface peut est te sembler intimidante 😵 😨. Ne t'inquiète pas, le document que tu es en train de lire t'informera simplement à propos de notre initiative ☺️.
+
 {{< /columns >}}
 
 
-## Tempora nisi nunc
+## Mission Statement
 
-Lorem **markdownum** emicat gestu. Cannis sol pressit ducta. **Est** Idaei,
-tremens ausim se tutaeque, illi ulnis hausit, sed, lumina cutem. Quae avis
-sequens!
+The problem we are trying to solve.
 
-    var panel = ram_design;
-    if (backup + system) {
-        file.readPoint = network_native;
-        sidebar_engine_device(cell_tftp_raster,
-                dual_login_paper.adf_vci.application_reader_design(
-                graphicsNvramCdma, lpi_footer_snmp, integer_model));
-    }
-    public_keyboard_docking += error.controller_gibibyte_plug.ip(4,
-            asciiPetaflops, software(supercomputer_compatible_status + 4));
-    dynamic_disk.indexModeLaptop = bufferTftpReality;
-    var export_vlog_sequence = trinitron_flowchart + supercomputer_cluster_rj(
-            -1, toolbar_powerpoint_query, -2 / multiprocessing_impression);
+Within our Canadian and Quebec scientific community we notice several of the common themes that bring scientists to open science. And, despite several governmental and institutional open science roadmaps here in Canada and Quebec, there is no clear pathway to understand why, nor how to do, open science. This especially true at the level of the individual, whether beginner researcher, established PI, or administrator.
 
-## Locis suis novi cum suoque decidit eadem
+There is a broad spectrum of what is, and how to do, open science (which, quite frankly, can be overwhelming for anyone in the academic community). Additionally, the absence of clear guidelines, tools, and workshops is evident among the french-speaking research communities. Indeed, there is very little french-speaking open science awareness.
+This project will address significant challenges faced by scientists learning and doing science in the open
 
-Idmoniae ripis, at aves, ali missa adest, ut _et autem_, et ab? Venit spes
-versus finis sermonibus patefecit murum nec est sine oculis. _Ille_ inmota
-macies domoque caelestia cadit tantummodo scelus procul, corde!
+* Create an accessible and structured web platform that provides an introduction to open science content, as well as resources.
+* Build an inclusive and global community, lowering existing barrier of accessibility by making open and reproducible-related knowledge accessible in French.
+* This project will begin from within the scientific community of the University of Montreal, thus, our initial efforts will be focused on mobilizing our scintific community towards science in the open
 
-1. Dolentem capi parte rostro alvum habentem pudor
-2. Fulgentia sanguine paret
-3. E punior consurgit lentus
-4. Vox hasta eras micantes
+How we think openness and open leadership will help solve it.
 
-## Facibus pharetrae indetonsusque indulsit sic incurrite foliis
+We are working with and for the members of the University of Montreal to establish an inclusive and collaborative community where students and researchers at all stages of their careers feel welcome to learn, share, and discuss open science values, principles, and practices.
 
-Nefandam et prisci palmas! Blandita cutis flectitur montis macies, te _nati_
-Latiis; turbaque inferias. Virginis tibi peracta avidusque facies caper nec, e
-at ademptae, mira.
+As open science is a broad and wide-ranging concept with domain-specific definitions, we will provide opportunities to meet and encourage the exchange of ideas within and across fields because we can all learn from each other. By raising awareness, we hope this project will instigate a culture shift and help people realize how they can immediately benefit from using open and reproducible practices, making science more accessible, transparent and reproducible.
 
-    direct *= font(inputScareware(sliHome), crossplatform.byte(
-            ppl_encryption.excel_e_rte(integratedModelModifier), timeVirtual,
-            floating_speakers.media_printer(us, yahoo, primaryPhp)));
-    friendly_metal_flatbed(cd, isoPrimaryStorage(reader), dmaMirrored);
-    if (parse_flash_cron.metalGif(1, adServiceDevice, utility)) {
-        adf -= operation_cdma_samba;
-        imapGif.switch += torrent;
-    } else {
-        pmu.disk_captcha = digital_ppp_pci + recursionTransistor(5, dram);
-        ajax_service += grayscalePythonLock;
-        google_scroll_capacity = ftp + engine_dslam_sidebar / tape - 1;
-    }
-    drive_rw = zipTftp;
-    var suffix = software_router_extension.dimm_ddr(-5,
-            kernel_digital_minisite);
-
-Vocavit toto; alas **mitis** maestus in liquidarum ab legi finitimosque dominam
-tibi subitus; Orionis vertitur nota. Currere alti etiam seroque cernitis
-innumeris miraturus amplectique collo sustinet quemque! Litora ante turba?
+We hope that by optimizing the openness of the scientific process, by empowering the community through: a peer network to share and discuss with other open science enthusiasts; activities and conferences about issues in modern scientific processes; workshops on open research methods; creating learning resources; promoting open tools made by our own members.
