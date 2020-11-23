@@ -2,7 +2,7 @@
 bookFlatSection: false
 bookCollapseSection: true
 title: "HUGO"
-description: ""
+description: "Apprenez comment développer le site localement sur votre ordinateur. Ceci n'est pas requis pour ajouter du contenu"
 
 ---
 
