@@ -1,7 +1,7 @@
 ---
 weight: 1
 bookFlatSection: false
-title: "Liste des projets"
+title: "Liste des projets et des tâches"
 ---
 
 # Introduction des projets

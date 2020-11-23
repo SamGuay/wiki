@@ -4,21 +4,21 @@ title: How to participate and contribute
 
 # Guide de participation et de contribution d'OSUM
 
+
 Ce guide se veut la référence à propos de nos façons de fonctionner. Tu aimerais t'investir davantage et contribuer au contenu? Consulte notre [ROADMAP](#) et informe-nous que tu aimerais collaborer. 
 
-{{< columns >}}
+{{< hint info >}}
+A **wiki** (/ˈwɪki/ (About this soundlisten) WIK-ee) is a hypertext publication collaboratively edited and managed by its own audience directly using a web browser. A typical wiki contains multiple pages for the subjects or scope of the project and may be either open to the public or limited to use within an organization for maintaining its internal knowledge base.
+[- Wikipedia](https://en.wikipedia.org/wiki/Wiki)
+{{< /hint >}}
+
 ## How to get involved?
 
 Text holder
 
-<--->
-
 ## How to contribute?
 
 Notre mode de fonctionnement peut varier selon les projets, mais en général, nous utilisons Github. Si tu n'es pas familière ou familier avec [GitHub](https://github.com/osumontreal), cette interface peut est te sembler intimidante 😵 😨. Ne t'inquiète pas, le document que tu es en train de lire t'informera simplement à propos de notre initiative ☺️.
-
-{{< /columns >}}
-
 
 ## Mission Statement
 
