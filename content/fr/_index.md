@@ -6,6 +6,12 @@ title: Comment participer et contribuer
 
 Ce guide se veut la référence à propos de nos façons de fonctionner. Tu aimerais t'investir davantage et contribuer au contenu? Consulte notre [ROADMAP](#) et informe-nous que tu aimerais collaborer. 
 
+{{< hint warning >}}
+**Pssttt**  
+Ceci est juste un exemple qui permet de donner une idée à quoi les *Contributing Guide* / *Wiki* et *FAQ* pourraient ressembler.
+{{< /hint >}}
+
+
 {{< columns >}}
 ## Comment participer?
 
